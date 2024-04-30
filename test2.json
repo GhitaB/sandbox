@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "acronym": "AAA",
+    "name": "Aaaa AAAaa AAAAA",
+    "countries": [
+      {
+        "code": "IT",
+        "name": "Italy"
+      }
+    ],
+    "link": "https://test.test/1/",
+    "members": [],
+    "is_network": false
+  },
+  {
+    "id": 2,
+    "acronym": "BBB",
+    "name": "Bbbbb bbbbb bbbbbbbb",
+    "countries": [
+      {
+        "code": "RO",
+        "name": "Romania"
+      }
+    ],
+    "link": "https://test.test/2/",
+    "members": [],
+    "is_network": false
+  }
+]
